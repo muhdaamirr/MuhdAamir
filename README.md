@@ -1,2 +1,3 @@
 #                                                            Hi, I'm Muhammad Aamir
-Computer Engineering
+Bachelor of Computer Engineering
+
