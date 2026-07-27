@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Muhammad Aamir and I'm a Bachelor of Computer Engineering, from UTeM</p>
+<p data-importer="text" align="left">My name is Muhammad Aamir</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2025 <br>📚 I'm currently learning Computer Engineering <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2025 <br>📚 I'm currently learning in Bachelor of Computer Engineering (Hons) student at UTeM <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
