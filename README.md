@@ -15,7 +15,7 @@
   📚 I'm currently a Diploma in Electronic Engineering (Computer) student at UTeM <br>
   📫 How to reach me: muhdaamir03@gmail.com<br>
   ⚡ Current CGPA: 2.25<br>
-  🎲 Fun fact: ...
+  🎲 
 </p>
 
 ###
